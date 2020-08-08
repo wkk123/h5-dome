@@ -1,0 +1,4 @@
+@import '@/assets/css/main.scss';
+.result_container{
+  @include wh(100vw, 100vh, $bg-base);
+}
